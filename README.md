@@ -4,10 +4,10 @@
 - 📫 How to reach me edosugita.es@gmail.com
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/edo-sugita-ibrahim-9b2256152/">
+<a href="https://www.linkedin.com/in/edo-sugita-ibrahim-9b2256152/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/edosugita6761/">
+<a href="https://www.instagram.com/edosugita6761/" target="_blank">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
