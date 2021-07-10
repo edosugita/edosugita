@@ -1,4 +1,4 @@
-### Hi there, I'm Edo 👋
+### Hi there, I'm Edo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything
 - 📫 How to reach me edosugita.es@gmail.com
