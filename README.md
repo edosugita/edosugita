@@ -1,4 +1,4 @@
-### Hi there, I'm Ed
+### Hi there, I'm Edo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning everything
 - 📫 How to reach me edosugita.es@gmail.com
